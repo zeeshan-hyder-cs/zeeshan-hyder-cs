@@ -1,82 +1,114 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+There%2C+I'm+Zeeshan+Hyder+%F0%9F%91%8B;Flutter+Developer+%F0%9F%93%B1;Frontend+Web+Developer+%F0%9F%92%BB;JavaScript+Developer+%E2%9A%A1;BS+Computer+Science+Student+%F0%9F%8E%93;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00C6FF,100:0072FF&text=Zeeshan%20Hyder&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20•%20Frontend%20Web%20Developer%20•%20BSCS%20Student&descAlignY=62"/>
 
-<br><br>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=zeeshan-hyder-cs&label=Profile%20Views&style=for-the-badge&color=00F7FF" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=👋+Hi,+I'm+Zeeshan+Hyder;📱+Flutter+Developer;💻+Frontend+Web+Developer;⚡+JavaScript+Developer;🚀+Building+Modern+Apps;🌱+Always+Learning+New+Technologies"/>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<h3>
+💙 Flutter Developer • Frontend Web Developer • Computer Science Student
+</h3>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<h2 align="center">👨‍💻 About Me</h2>
-
-- 🎓 BS Computer Science student at **Indus University**, Pakistan 🇵🇰
-- 📱 Passionate **Flutter Developer** building modern cross-platform mobile applications.
-- 🌐 Frontend Web Developer with experience in **HTML, CSS & JavaScript**.
-- ⚛️ Currently learning **React.js, Node.js, Firebase & REST APIs**.
-- 🚀 Building real-world projects to strengthen my development skills.
-- 💼 Looking for **Flutter, Frontend, and Software Engineering Internship opportunities**.
-- 🎯 Goal: Become a professional Software Engineer and work on international products.
-
----
-
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,react,nodejs,firebase,git,github,vscode,androidstudio&theme=dark" />
+<p>
+Building clean, modern and user-friendly applications with Flutter and Web Technologies.
+</p>
 
 </div>
 
 ---
+# 👨‍💻 About Me
 
-<h2 align="center">📊 GitHub Stats</h2>
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<div align="center">
+Hi! I'm **Zeeshan Hyder**, a passionate **Flutter Developer** and **Computer Science student** from **Pakistan 🇵🇰**.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zeeshan-hyder-cs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+I enjoy building modern, responsive, and user-friendly mobile and web applications. My goal is to become a professional Software Engineer by continuously learning new technologies and creating real-world projects.
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan-hyder-cs&theme=tokyonight&hide_border=true"/>
+### 🚀 What I'm Doing
 
-<br><br>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan-hyder-cs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
----
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zeeshan-hyder-cs&theme=react-dark&hide_border=true&area=true"/>
-
-</div>
-
----
-
-<h2 align="center">🎯 Current Focus</h2>
-
-- 📱 Developing Flutter applications
-- 🌐 Building responsive web projects
-- ⚡ Improving JavaScript & React.js skills
-- 🔥 Learning Firebase and Backend Development
+- 📱 Building cross-platform apps with **Flutter**
+- 🌐 Developing responsive websites using **HTML, CSS & JavaScript**
+- ⚛️ Learning **React.js**, **Node.js** & **Firebase**
+- 💻 Improving problem-solving and development skills
 - 🚀 Growing my GitHub portfolio with real-world projects
 
+<br clear="right"/>
+
+---
+# 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,react,nodejs,firebase,git,github,vscode,androidstudio&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+</div>
+
 ---
 
-<h2 align="center">🤝 Connect With Me</h2>
+# 📚 Currently Learning
+
+<div align="center">
+
+| 🌱 Learning | 🚀 Goal |
+|-------------|----------|
+| Flutter Advanced | Build Production Apps |
+| React.js | Modern Frontend Development |
+| Node.js | Backend Development |
+| Firebase | Full Stack Mobile Apps |
+| Git & GitHub | Open Source Collaboration |
+
+</div>
+
+---
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zeeshan-hyder-cs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=zeeshan-hyder-cs&theme=tokyonight&hide_border=true&background=00000000"/>
+
+<br><br>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan-hyder-cs&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zeeshan-hyder-cs&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+# 🚀 Current Focus
+
+<div align="center">
+
+| 💻 Working On | 🌱 Learning | 🎯 Goal |
+|:-------------:|:-----------:|:-------:|
+| 📱 Flutter Apps | ⚛️ React.js | 💼 Software Engineer |
+| 🌐 Portfolio Website | 🔥 Firebase | 🌍 Remote Opportunities |
+| 🚀 Real-World Projects | 🟢 Node.js | ⭐ Open Source |
+
+</div>
+
+---
+
+# 🤝 Let's Connect
 
 <div align="center">
 
@@ -85,7 +117,7 @@
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/zeeshan-hyder-cs">
@@ -98,10 +130,14 @@
 
 <div align="center">
 
-### ⭐ Thanks for visiting my GitHub profile!
+## ⭐ Thanks for visiting my profile!
 
-**"Code • Learn • Build • Repeat 🚀"**
+### 💙 *"Code • Learn • Build • Repeat."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00F7FF&height=120&section=footer" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Happy+Coding!+🚀;Let's+Build+Something+Amazing!"/>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0072FF,100:00C6FF"/>
 
 </div>
